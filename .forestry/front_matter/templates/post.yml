@@ -29,8 +29,8 @@ fields:
     required: true
     options: []
     source:
-      type: pages
-      section: ''
-      file: 
+      type: documents
+      section: folder
+      file: site/globals/langs.json
       path: 
   label: Language
