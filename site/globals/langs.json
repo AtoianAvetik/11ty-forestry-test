@@ -1,19 +1,4 @@
 {
-  "langs": [
-    {
-      "code": "en",
-      "url": "/",
-      "name": "English"
-    },
-    {
-      "code": "ru",
-      "url": "/ru",
-      "name": "Russian"
-    },
-    {
-      "code": "uk",
-      "url": "/uk",
-      "name": "Ukranian"
-    }
-  ]
+    "langs": [
+    ]
 }
