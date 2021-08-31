@@ -1,27 +1,36 @@
 {
-    "langs": [
-        {
-            "code": "en",
-            "url": "/",
-            "name": "English"
-        },
-        {
-            "code": "ru",
-            "url": "/ru",
-            "name": "Russian"
-        },
-        {
-            "code": "uk",
-            "url": "/uk",
-            "name": "Ukranian"
-        },
-        {
-            "code": "de",
-            "url": "/de",
-            "name": "German"
-        }
-    ],
-    "langs-list": [
-        "en", "ru", "uk", "de"
-    ]
+  "langs": [
+    {
+      "code": "en",
+      "url": "/",
+      "name": "English"
+    },
+    {
+      "code": "ru",
+      "url": "/ru",
+      "name": "Russian"
+    },
+    {
+      "code": "uk",
+      "url": "/uk",
+      "name": "Ukranian"
+    },
+    {
+      "code": "de",
+      "url": "/de",
+      "name": "German"
+    },
+    {
+      "code": "fr",
+      "url": "/fr",
+      "name": "French"
+    }
+  ],
+  "langs-list": [
+    "en",
+    "ru",
+    "uk",
+    "de",
+    "fr"
+  ]
 }
