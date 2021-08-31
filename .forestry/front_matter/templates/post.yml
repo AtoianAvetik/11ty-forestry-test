@@ -34,3 +34,5 @@ fields:
       file: site/globals/langs.json
       path: langs-list
   label: Language
+pages:
+- site/staythefuckhome.md
