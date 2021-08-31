@@ -1,0 +1,19 @@
+---
+label: POST
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: meta_title
+  label: meta_title
+- type: text
+  name: meta_description
+  label: meta_description
+- type: text
+  name: title
+  label: title
+- type: text
+  name: lang
+  label: lang
