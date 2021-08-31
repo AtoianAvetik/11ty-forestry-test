@@ -32,5 +32,5 @@ fields:
       type: documents
       section: folder
       file: site/globals/langs.json
-      path: langs
+      path: langs-list
   label: Language
