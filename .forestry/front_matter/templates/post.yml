@@ -1,6 +1,7 @@
 ---
 label: POST
 hide_body: false
+display_field: lang
 fields:
 - type: text
   name: layout
@@ -35,4 +36,7 @@ fields:
       path: langs-list
   label: Language
 pages:
-- site/staythefuckhome.md
+- site/de.md
+- site/index.md
+- site/ru.md
+- site/uk.md
