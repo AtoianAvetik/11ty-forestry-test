@@ -5,15 +5,25 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: default
+  config:
+    required: true
 - type: text
   name: meta_title
-  label: meta_title
+  label: Meta title
+  config:
+    required: true
 - type: text
   name: meta_description
-  label: meta_description
+  label: Meta description
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: text
   name: lang
-  label: lang
+  label: Language
+  config:
+    required: true
