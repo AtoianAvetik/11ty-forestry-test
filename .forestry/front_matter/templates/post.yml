@@ -22,8 +22,15 @@ fields:
   label: Title
   config:
     required: true
-- type: text
-  name: lang
-  label: Language
+- name: lang
+  type: select
+  default: site/globals/langs.json
   config:
     required: true
+    options: []
+    source:
+      type: pages
+      section: ''
+      file: 
+      path: 
+  label: Language
