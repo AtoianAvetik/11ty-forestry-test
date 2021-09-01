@@ -42,6 +42,7 @@ fields:
   label: Language
 pages:
 - site/de.md
+- site/demo-fr.md
 - site/index.md
 - site/ru.md
 - site/uk.md
