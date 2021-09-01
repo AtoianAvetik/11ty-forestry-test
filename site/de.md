@@ -1,9 +1,9 @@
 ---
 layout: default
 lang: de
-meta_title: Demo
+meta_title: Demo - DE
 meta_description: Demo
-title: "#StayTheFuckHome"
-subtitle: "11ty subtitle"
+title: "#StayTheFuckHome - DE"
+subtitle: 11ty subtitle
 
 ---
