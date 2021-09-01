@@ -1,9 +1,9 @@
 ---
 layout: default
-meta_title: 11ty демо проэкт
+meta_title: 11ty демо проэкт - RU
 meta_description: Какое-то описание!
-title: "#StayTheFuckHome"
-subtitle: "11ty подзаголовок"
+title: "#StayTheFuckHome - RU"
+subtitle: 11ty подзаголовок
 lang: ru
 
 ---
