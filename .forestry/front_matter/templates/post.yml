@@ -23,6 +23,11 @@ fields:
   label: Title
   config:
     required: true
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
 - name: lang
   type: select
   default: site/globals/langs.json
